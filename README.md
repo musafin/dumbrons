@@ -18,7 +18,7 @@ It is built as a learning project and is intended to demonstrate how to:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/dumbrons.git
+git clone https://github.com/musafin/dumbrons.git
 cd dumbrons
 ```
 ### 2. Build the project
